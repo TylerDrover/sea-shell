@@ -2,7 +2,7 @@
 
 Tyler Drover
 
-An interactive shell program writen in C 
+An interactive UNIX shell program written in C 
 
 To run:
 
