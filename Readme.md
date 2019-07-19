@@ -1,6 +1,4 @@
-# Shell
-
-Tyler Drover
+# Sea Shell
 
 An interactive UNIX shell program written in C 
 
@@ -14,8 +12,8 @@ List of commands:
 	help 
 	history 		    prints out a list of the 20 previously used commands
 	cd [dir] 		    changes working directory to dir or HOME if dir is omitted
-    setenv <var> [value] 	sets environment variable var to value if exists, otherwise create enironment variable var
-    unsetenv <var> 		distroys an environment variable
+    setenv <var> [value] 	    sets environment variable var to value if exists, otherwise create enironment variable var
+    unsetenv <var> 		    distroys an environment variable
 	env 			    prints list of the current environment variables
 	exit 			    terminates current session
 
